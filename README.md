@@ -88,8 +88,13 @@ Thus, Kirchhoff’s Laws were verified using the given circuit simulations.
 a. KVL is verified because the total voltage drop (9.96 V) is approximately equal to the supply voltage (10 V).
 
 b. KCL is verified because the total incoming current (0.50 A) is equal to the total outgoing current (0.50 A).
+KVL Output:
 <img width="1376" height="777" alt="KVL Output " src="https://github.com/user-attachments/assets/8ca5b3aa-1990-458a-8dd6-01ae5d7355a2" />
+KCL OUTPUT:
 <img width="1437" height="726" alt="KCL Output" src="https://github.com/user-attachments/assets/9229a58c-a0cd-4ce1-86eb-543a53923e91" />
+KCL Circuit Diagram:
 <img width="1412" height="760" alt="KCL Circuit" src="https://github.com/user-attachments/assets/c3a9e79b-9f14-445a-b63f-961672e805c7" />
+KCL Manual Calculation:
 <img width="720" height="1280" alt="WhatsApp Image 2026-09-30 at 16 28 00" src="https://github.com/user-attachments/assets/3278d92f-f048-45cd-9b90-0cbbd23c98cd" />
+KVL Manual Calculation 
 <img width="720" height="1280" alt="WhatsApp Image 2026-09-30 at 16 28 00 (1)" src="https://github.com/user-attachments/assets/b01f58e5-c258-4d16-b705-1f182ff8deca" />
